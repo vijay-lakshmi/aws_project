@@ -1,5 +1,5 @@
 customhost = "database-1.cdbosifhp3pr.ap-south-1.rds.amazonaws.com"
-customuser = "Admin"
+customuser = "admin"
 custompass = "Database"
 customdb = "employee"
 custombucket = "new-bucket123"
